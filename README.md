@@ -2,7 +2,7 @@
 This is my personal portfolio website, inspired by the [ByteGrad/portfolio-website](https://github.com/ByteGrad/portfolio-website) project. While the core structure remains similar to the original project, I've made a few small customizations and continue to upgrade it.
 
 # Screenshot
-![my_portfolio](/public/my-portfolio.png)
+![my_portfolio](/public/img1.png)
 
 # Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
